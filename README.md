@@ -1,0 +1,1 @@
+This is Great8One’s first git project!
